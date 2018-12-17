@@ -174,32 +174,32 @@ const Index = () => (
           <Title>Projects</Title>
           <ProjectsWrapper>
             <ProjectCard
-              title="Freiheit"
-              link="https://www.behance.net/gallery/58937147/Freiheit"
+              title="LiveTheLifeTV"
+              link="https://www.livethelife.tv/"
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
             >
-              This project is my entry to Adobe's #ChallengeYourPerspective contest.
+              Find surf properties where you will feel right at home. Destination advice to find the hidden treasures. Inspire other people to Live The Good Life.
             </ProjectCard>
             <ProjectCard
-              title="Harry Potter"
-              link="https://www.behance.net/gallery/52915793/Harry-Potter"
+              title="Edito"
+              link="https://edito.livethelife.tv/"
               bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
             >
-              I entered the DOCMA 2017 award with this Harry Potter inspired image.
+              “Every portrait that is painted with feeling is a portrait of the artist, not of the sitter. The sitter is merely the accident, the occasion. It is not he who is revealed by the painter; it is rather the painter who, on the colored canvas, reveals himself.” ― Oscar Wilde.
             </ProjectCard>
             <ProjectCard
-              title="Tomb Raider"
-              link="https://www.behance.net/gallery/43907099/Tomb-Raider"
+              title="Surf Charters"
+              link="https://surfcharters.livethelife.tv/"
               bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
             >
-              Recreation of a Tomb Raider Wallpaper (Fan Art)
+              A surf charter trip is the ultimate surfers dream. Something every surfer wants to experience at least once in his life. 
             </ProjectCard>
             <ProjectCard
-              title="Eagle"
-              link="https://www.behance.net/gallery/38068151/Eagle"
+              title="Let's Talk"
+              link="https://edito.livethelife.tv/contact/"
               bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
             >
-              A fantasy image manipulation relocating the habitat of wild animals.
+              Use the contact form below to get in touch with us. LTL will research all the hotels on your behalf, and provide you with their best options.
             </ProjectCard>
           </ProjectsWrapper>
         </Inner>
@@ -252,16 +252,11 @@ const Index = () => (
           <AboutHero>
             <Avatar src={avatar} alt="John Doe" />
             <AboutSub>
-              The English language can not fully capture the depth and complexity of my thoughts. So I'm incorporating
-              Emoji into my speech to better express myself. Winky face.
+              LiveTheLife.TV (LTL) is a vetted marketplace. Matching traveler’s preferences with boutique hotels. Filter based on active lifestyle, architecture, interior design and curated hotspots. And featuring hand-picked properties for sale near surf beaches.
             </AboutSub>
           </AboutHero>
           <AboutDesc>
-            You know the way you feel when you see a picture of two otters holding hands? That's how you're gonna feel
-            every day. My mother cried the day I was born because she knew she’d never be prettier than me. You should
-            make me your campaign manager. I was born for politics. I have great hair and I love lying. Captain? The
-            kids want to know where Paulie the Pigeon is. I told them he got sucked up into an airplane engine, is that
-            all right?
+            “Today, it’s having content that inspires a traveler to dream. Tomorrow, it will be helping assist that dream with voice searches” LTL hand-picked Independent hotels with personality located at surf beaches and snow resorts and offers expert-curated travel advice. Matching preferences based on lifestyle, architecture, interior design, and ambassador experiences. These insiders are often journalists, photographers & filmmakers.
           </AboutDesc>
         </Inner>
       </Content>
