@@ -158,9 +158,9 @@ const Index = () => (
       <Content speed={0.4} offset={0}>
         <Hero>
           <BigTitle>
-            Hello, <br /> I'm John Doe.
+            Hello, <br /> I'm stoked.
           </BigTitle>
-          <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
+          <Subtitle>And creating web experiences for the travel generation.</Subtitle>
         </Hero>
       </Content>
       <DividerMiddle
@@ -285,14 +285,14 @@ const Index = () => (
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
-            <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
-            <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
+            Say <a href="mailto:yves@livethelife.tv">Hi</a> or find me on other platforms:{' '}
+            <a href="https://github.com/yvesvandenmeerssche">GitHub</a> &{' '}
+            <a href="https://www.instagram.com/livethelife.tv/">Instagram</a>
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2018 by Gatsby Starter Portfolio Cara.{' '}
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">Github Repository</a>.
+          &copy; 2018 by Gatsby.{' '}
+          <a href="https://github.com/yvesvandenmeerssche/gatsby-starter-portfolio-cara">Github Repository</a>.
         </Footer>
       </Content>
       <Divider speed={0.1} offset={4}>
